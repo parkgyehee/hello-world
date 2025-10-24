@@ -12,7 +12,7 @@ markdown language - 글 서식 편집용 언어
 .[글씨].(주소)
 .[네이버검색].(https://www.naver.com).<br>
 .[동물병원시스템].(https://github.com/parkgyehee/hello-world).<br>
-.[발표자료].
+.[발표자료].(/project.pptx).<br>
 
 > 들여쓰기
 > >한번더 들여쓰기
